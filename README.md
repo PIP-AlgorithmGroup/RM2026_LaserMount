@@ -1,6 +1,7 @@
 # RM2026_LaserMount
 RM2026雷达的激光座部分
 
+![模型渲染图](./assets/1.png)
 
 ## 装配要点
 
